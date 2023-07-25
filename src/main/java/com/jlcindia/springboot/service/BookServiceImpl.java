@@ -16,7 +16,7 @@ public class BookServiceImpl  implements BookService{
 	
 	@Override
 	public List<Book> getAllBooks() {
-		System.out.println("-----BookServiceImpllementation--getAllBooks()---------");
+		System.out.println("-----BookServiceImplgetAllBooks()---------");
     	return bookDAO.findAll();
 	}
 
