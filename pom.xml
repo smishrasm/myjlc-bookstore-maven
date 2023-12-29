@@ -8,7 +8,7 @@
 	
 	<artifactId>myjlc-bookstore-maven</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 	
 	<name>myjlc-bookstore-maven</name>
 	<description>Spring Boot and Maven Application</description>
